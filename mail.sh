@@ -1,8 +1,7 @@
 #x is the no people you want to send
 
 #add x no of people's email address here
-declare -a domain=("vivek.singh9022@gmail.com",
-        "steady.bunny@gmail.com" 
+declare -a domain=("Email Here"
         )
 
 for i in "${domain[@]}"
